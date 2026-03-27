@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Wembuu",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Backtoepsteinisland.aternos.me",
+    "port": 27119,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -86,6 +86,7 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
+     
   }
 }
